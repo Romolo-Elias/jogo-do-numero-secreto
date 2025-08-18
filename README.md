@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
 
-<p>Projeto feito com auxilio do curso de lógica de programação da Alura.</p>
+<p>Atividade do curso da Alura de introdução a lógica da programação.</p>
 
 <h2>Tecnologias</h2>
 
